@@ -12,6 +12,10 @@
 ## 🚀 Featured Projects
 ### Book Marker
 [![Book Marker](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true)](https://github.com/Ahme-fahd/BookMarker)
+## 🛒 E-Commerce Project  
+A modern and responsive e-commerce website built with JavaScript, HTML, and CSS.
+
+[![E-Commerce Project](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true)](https://github.com/Ahme-fahd/E-Commerce)
 
 <!--
 **Ahme-fahd/Ahme-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +24,6 @@
 
 Welcome to my GitHub profile! 🚀  
 
-##🌟 Featured Projects:
-- 📌 [Book Marker](https://ahme-fahd.github.io/BookMarker/) – A simple web app to save and manage bookmarks(CRUD System).  
-- 📌 [E-Commerce](https://ahme-fahd.github.io/E-commerce-/#/login)) – is a modern and user-friendly online store designed to provide a seamless shopping experience. 
 
 ## 📫 Connect with me:
 - 💼 [https://www.linkedin.com/in/ahmed-essaam/](#)  
