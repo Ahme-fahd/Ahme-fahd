@@ -2,6 +2,16 @@
 <p align="center">
   <img src="https://github.com/Ahme-fahd.png" width="150" height="150" style="border-radius:50%;" alt="Ahmed Fahd">
 </p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahme-fahd&show_icons=true&theme=tokyonight" width="50%">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahme-fahd&theme=tokyonight">
+</p>
+## 🚀 Featured Projects
+### Book Marker
+[![Book Marker](https://via.placeholder.com/600x300?text=Book+Marker)](https://github.com/Ahme-fahd/BookMarker)
 
 <!--
 **Ahme-fahd/Ahme-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
