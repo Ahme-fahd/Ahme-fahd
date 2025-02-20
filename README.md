@@ -21,7 +21,9 @@ A simple **CRUD (Create, Read, Update, Delete)** application that allows users t
 - **Real-time validation** to ensure correct URL format.  
 
 🚀 Built with **JavaScript, HTML, and CSS**.  
-[![Book Marker](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true)](https://github.com/Ahme-fahd/BookMarker)
+[![Book Marker](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true)]
+🔗 **Live Demo:** [Click Here](https://ahme-fahd.github.io/BookMarker/)
+
 ## 🛒 E-Commerce Website  
 A modern **E-Commerce** web application that allows users to browse, search, and purchase products seamlessly.  
 
@@ -34,7 +36,8 @@ A modern **E-Commerce** web application that allows users to browse, search, and
 
 🚀 Built with **JavaScript, HTML, CSS**, and backend integration (if applicable).  
 
-[![E-Commerce Project](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true)](https://github.com/Ahme-fahd/E-Commerce)
+[![E-Commerce Project](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true)]
+🔗 **Live Demo:** [Click Here](https://ahme-fahd.github.io/E-commerce-/)
 
 <!--
 **Ahme-fahd/Ahme-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
