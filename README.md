@@ -11,9 +11,28 @@
 </p>
 ## 🚀 Featured Projects
 ### Book Marker
+A simple **CRUD (Create, Read, Update, Delete)** application that allows users to save and manage their favorite website links easily.  
+
+### ✨ Features:  
+- **Add** new bookmarks with website names and URLs.  
+- **View** and manage all saved bookmarks in a structured list.  
+- **Edit** existing bookmarks.  
+- **Delete** bookmarks when no longer needed.  
+- **Real-time validation** to ensure correct URL format.  
+
+🚀 Built with **JavaScript, HTML, and CSS**.  
 [![Book Marker](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true)](https://github.com/Ahme-fahd/BookMarker)
-## 🛒 E-Commerce Project  
-A modern and responsive e-commerce website built with JavaScript, HTML, and CSS.
+## 🛒 E-Commerce Website  
+A modern **E-Commerce** web application that allows users to browse, search, and purchase products seamlessly.  
+
+### ✨ Features:  
+- **Product Listing** – Displays a variety of products with images, descriptions, and prices.  
+- **Search & Filtering** – Helps users find products easily based on categories or keywords.  
+- **Shopping Cart** – Add, update, and remove items before checkout.  
+- **User Authentication** – Sign up, log in, and manage user accounts.  
+- **Order Management** – Track orders and view order history.  
+
+🚀 Built with **JavaScript, HTML, CSS**, and backend integration (if applicable).  
 
 [![E-Commerce Project](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true)](https://github.com/Ahme-fahd/E-Commerce)
 
