@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Ahme-fahd.png" width="150" height="150" style="border-radius:50%;" alt="Ahmed Fahd">
+</p>
 
 <!--
 **Ahme-fahd/Ahme-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
