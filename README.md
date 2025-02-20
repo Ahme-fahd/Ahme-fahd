@@ -41,7 +41,7 @@ A modern **E-Commerce** web application that allows users to browse, search, and
 
 ## 🔹 Other Projects  
 - 🎨 [Portfolio Website](https://ahme-fahd.github.io/React-Portfolio/)  
-
+- 🌍 [Weather App](https://ahme-fahd.github.io/Weather-app/) 
 <!--
 **Ahme-fahd/Ahme-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
