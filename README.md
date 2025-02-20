@@ -39,6 +39,9 @@ A modern **E-Commerce** web application that allows users to browse, search, and
 [![E-Commerce Project](https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true)]
 🔗 **Live Demo:** [Click Here](https://ahme-fahd.github.io/E-commerce-/)
 
+## 🔹 Other Projects  
+- 🎨 [Portfolio Website](https://ahme-fahd.github.io/React-Portfolio/)  
+
 <!--
 **Ahme-fahd/Ahme-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
