@@ -33,7 +33,7 @@ A professional and modern clinic website showcasing services, doctors, and conta
 
 <p align="center">
   <a href="https://ahme-fahd.github.io/Qebaa-Clinic/">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/qebaa-clinic.png?raw=true" width="60%" alt="Qebaa Clinic Screenshot">
+    <img src="https://github.com/Ahme-fahd/Qebaa-Clinic/blob/main/Screenshot%202025-11-20%20160801.png" width="60%" alt="Qebaa Clinic Screenshot">
   </a>
 </p>
 
