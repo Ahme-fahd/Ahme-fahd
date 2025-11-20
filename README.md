@@ -95,7 +95,7 @@ A **CRUD (Create, Read, Update, Delete)** application to save and manage your fa
   </p>
 - 🌍 [Weather App](https://ahme-fahd.github.io/Weather-app/)  
   <p align="center">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/weather.png?raw=true" width="50%" alt="Weather App Screenshot">
+    <img src="https://github.com/Ahme-fahd/Weather-app/blob/main/weather.png" width="50%" alt="Weather App Screenshot">
   </p>
 
 ---
