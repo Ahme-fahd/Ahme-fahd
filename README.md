@@ -91,7 +91,7 @@ A **CRUD (Create, Read, Update, Delete)** application to save and manage your fa
 ### 🔹 Other Projects
 - 🎨 [Portfolio Website](https://ahme-fahd.github.io/React-Portfolio/)  
   <p align="center">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/portfolio.png?raw=true" width="50%" alt="Portfolio Screenshot">
+    <img src="https://github.com/Ahme-fahd/React-Portfolio/blob/main/portfolio.png" width="50%" alt="Portfolio Screenshot">
   </p>
 - 🌍 [Weather App](https://ahme-fahd.github.io/Weather-app/)  
   <p align="center">
