@@ -33,10 +33,12 @@ A professional and modern clinic website showcasing services, doctors, and conta
 
 <p align="center">
   <a href="https://ahme-fahd.github.io/Qebaa-Clinic/">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/qebaa-clinic.png?raw=true" width="60%">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/qebaa-clinic.png?raw=true" width="60%" alt="Qebaa Clinic Screenshot">
   </a>
 </p>
-🔗 **Live Demo:** [Qebaa Clinic](https://ahme-fahd.github.io/Qebaa-Clinic/)
+
+🔗 **Live Demo:** [Qebaa Clinic](https://ahme-fahd.github.io/Qebaa-Clinic/)  
+🔗 **GitHub Repo:** [Qebaa Clinic Repo](https://github.com/Ahme-fahd/Qebaa-Clinic)
 
 ---
 
@@ -54,10 +56,12 @@ A modern **E-Commerce** web application to browse, search, and purchase products
 
 <p align="center">
   <a href="https://ahme-fahd.github.io/E-commerce-/">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true" width="60%">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true" width="60%" alt="E-Commerce Screenshot">
   </a>
 </p>
-🔗 **Live Demo:** [E-Commerce](https://ahme-fahd.github.io/E-commerce-/)
+
+🔗 **Live Demo:** [E-Commerce](https://ahme-fahd.github.io/E-commerce-/)  
+🔗 **GitHub Repo:** [E-Commerce Repo](https://github.com/Ahme-fahd/E-commerce-)
 
 ---
 
@@ -75,16 +79,24 @@ A **CRUD (Create, Read, Update, Delete)** application to save and manage your fa
 
 <p align="center">
   <a href="https://ahme-fahd.github.io/BookMarker/">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true" width="60%">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true" width="60%" alt="Book Marker Screenshot">
   </a>
 </p>
-🔗 **Live Demo:** [Book Marker](https://ahme-fahd.github.io/BookMarker/)
+
+🔗 **Live Demo:** [Book Marker](https://ahme-fahd.github.io/BookMarker/)  
+🔗 **GitHub Repo:** [Book Marker Repo](https://github.com/Ahme-fahd/BookMarker)
 
 ---
 
 ### 🔹 Other Projects
 - 🎨 [Portfolio Website](https://ahme-fahd.github.io/React-Portfolio/)  
+  <p align="center">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/portfolio.png?raw=true" width="50%" alt="Portfolio Screenshot">
+  </p>
 - 🌍 [Weather App](https://ahme-fahd.github.io/Weather-app/)  
+  <p align="center">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/weather.png?raw=true" width="50%" alt="Weather App Screenshot">
+  </p>
 
 ---
 
