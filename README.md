@@ -35,10 +35,11 @@ I'm a passionate **Front-End Developer** with 3 years of freelance experience, b
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 1️⃣ Qebaa Clinic Website
-A professional and modern clinic website showcasing services, doctors, and contact info.
+A modern clinic website showcasing services, doctors, and contact info.
 
 **✨ Features:**  
 - Fully responsive design  
@@ -47,12 +48,10 @@ A professional and modern clinic website showcasing services, doctors, and conta
 - Contact form integrated  
 - Smooth scrolling and interactive UI  
 
-🚀 **Built with:** HTML, CSS, JavaScript,React
+🚀 **Built with:** React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Flowbite React, Lucide React, FontAwesome, react-multi-carousel  
 
 <p align="center">
-  <a href="https://ahme-fahd.github.io/Qebaa-Clinic/">
-    <img src="https://github.com/Ahme-fahd/Qebaa-Clinic/blob/main/Screenshot%202025-11-20%20160801.png" width="60%" alt="Qebaa Clinic Screenshot">
-  </a>
+  <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/qebaa-clinic.png?raw=true" width="60%" alt="Qebaa Clinic Screenshot">
 </p>
 
 🔗 **Live Demo:** [Qebaa Clinic](https://ahme-fahd.github.io/Qebaa-Clinic/)  
@@ -60,8 +59,8 @@ A professional and modern clinic website showcasing services, doctors, and conta
 
 ---
 
-### 2️⃣ E-Commerce Website
-A modern **E-Commerce** web application to browse, search, and purchase products.
+### 2️⃣ Freshcart (E-Commerce Website)
+A modern E-Commerce web application to browse, search, and purchase products.
 
 **✨ Features:**  
 - Product listing with images, descriptions, and prices  
@@ -70,12 +69,10 @@ A modern **E-Commerce** web application to browse, search, and purchase products
 - User authentication (Sign up / Log in)  
 - Order tracking and history  
 
-🚀 **Built with:** JavaScript, HTML, CSS  
+🚀 **Built with:** Next.js, React, Tailwind CSS, JavaScript, HTML5, CSS3, Axios, Formik, Yup, react-router-dom, react-slick, slick-carousel, FontAwesome  
 
 <p align="center">
-  <a href="https://ahme-fahd.github.io/E-commerce-/">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true" width="60%" alt="E-Commerce Screenshot">
-  </a>
+  <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/E-commerce.png?raw=true" width="60%" alt="E-Commerce Screenshot">
 </p>
 
 🔗 **Live Demo:** [E-Commerce](https://ahme-fahd.github.io/E-commerce-/)  
@@ -93,12 +90,10 @@ A **CRUD (Create, Read, Update, Delete)** application to save and manage your fa
 - Delete bookmarks  
 - Real-time URL validation  
 
-🚀 **Built with:** JavaScript, HTML, CSS  
+🚀 **Built with:** JavaScript, HTML5, CSS3  
 
 <p align="center">
-  <a href="https://ahme-fahd.github.io/BookMarker/">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true" width="60%" alt="Book Marker Screenshot">
-  </a>
+  <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true" width="60%" alt="Book Marker Screenshot">
 </p>
 
 🔗 **Live Demo:** [Book Marker](https://ahme-fahd.github.io/BookMarker/)  
@@ -107,13 +102,17 @@ A **CRUD (Create, Read, Update, Delete)** application to save and manage your fa
 ---
 
 ### 🔹 Other Projects
-- 🎨 [Portfolio Website](https://ahme-fahd.github.io/React-Portfolio/)  
+
+- 🎨 **Portfolio Website** — **Built with:** React, Tailwind CSS, JavaScript, HTML5, CSS3  
+  Live Demo: [React Portfolio](https://ahme-fahd.github.io/React-Portfolio/)  
   <p align="center">
-    <img src="https://github.com/Ahme-fahd/React-Portfolio/blob/main/portfolio.png" width="50%" alt="Portfolio Screenshot">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/portfolio.png?raw=true" width="50%" alt="Portfolio Screenshot">
   </p>
-- 🌍 [Weather App](https://ahme-fahd.github.io/Weather-app/)  
+
+- 🌍 **Weather App** — **Built with:** JavaScript, HTML5, CSS3, Fetch API  
+  Live Demo: [Weather App](https://ahme-fahd.github.io/Weather-app/)  
   <p align="center">
-    <img src="https://github.com/Ahme-fahd/Weather-app/blob/main/weather.png" width="50%" alt="Weather App Screenshot">
+    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/weather.png?raw=true" width="50%" alt="Weather App Screenshot">
   </p>
 
 ---
