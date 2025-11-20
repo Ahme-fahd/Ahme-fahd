@@ -47,7 +47,7 @@ A professional and modern clinic website showcasing services, doctors, and conta
 - Contact form integrated  
 - Smooth scrolling and interactive UI  
 
-🚀 **Built with:** HTML, CSS, JavaScript  
+🚀 **Built with:** HTML, CSS, JavaScript,React
 
 <p align="center">
   <a href="https://ahme-fahd.github.io/Qebaa-Clinic/">
