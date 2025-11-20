@@ -51,7 +51,7 @@ A modern clinic website showcasing services, doctors, and contact info.
 🚀 **Built with:** React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Flowbite React, Lucide React, FontAwesome, react-multi-carousel  
 
 <p align="center">
-  <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/qebaa-clinic.png?raw=true" width="60%" alt="Qebaa Clinic Screenshot">
+  <img src="https://github.com/Ahme-fahd/Qebaa-Clinic/blob/main/src/qebaa.png" alt="Qebaa Clinic Screenshot">
 </p>
 
 🔗 **Live Demo:** [Qebaa Clinic](https://ahme-fahd.github.io/Qebaa-Clinic/)  
