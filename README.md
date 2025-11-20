@@ -106,13 +106,13 @@ A **CRUD (Create, Read, Update, Delete)** application to save and manage your fa
 - 🎨 **Portfolio Website** — **Built with:** React, Tailwind CSS, JavaScript, HTML5, CSS3  
   Live Demo: [React Portfolio](https://ahme-fahd.github.io/React-Portfolio/)  
   <p align="center">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/portfolio.png?raw=true" width="50%" alt="Portfolio Screenshot">
+    <img src="https://github.com/Ahme-fahd/React-Portfolio/blob/main/portfolio.png" width="50%" alt="Portfolio Screenshot">
   </p>
 
 - 🌍 **Weather App** — **Built with:** JavaScript, HTML5, CSS3, Fetch API  
   Live Demo: [Weather App](https://ahme-fahd.github.io/Weather-app/)  
   <p align="center">
-    <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/weather.png?raw=true" width="50%" alt="Weather App Screenshot">
+    <img src="https://github.com/Ahme-fahd/Weather-app/blob/main/weather.png" width="50%" alt="Weather App Screenshot">
   </p>
 
 ---
