@@ -27,14 +27,6 @@ I'm a passionate **Front-End Developer** with 3 years of freelance experience, b
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ahmed-essaam/) | aessam2224@gmail.com
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahme-fahd&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahme-fahd&theme=tokyonight" width="45%">
-</p>
-
----
-
 
 ## 🚀 Featured Projects
 
@@ -81,28 +73,23 @@ A modern E-Commerce web application to browse, search, and purchase products.
 ---
 
 ### 3️⃣ 🎬 MoviesBox (CRUD System)
-A simple web application for managing movies where users can add, update, search, and delete movie entries.
+A simple web application for managing movies where users can **add**, **update**, **search**, and **delete** movie entries.
 
-**✨ Features:**  :
+**✨ Features:**  
+- ➕ Add new movies with title and details  
+- ✏️ Update existing movie information  
+- 🔍 Search movies instantly by name  
+- ❌ Delete movies from the list  
+- 📱 Responsive UI with modern styling  
 
-➕ Add new movies with title and details
-
-✏️ Update existing movie information
-
-🔍 Search movies instantly by name
-
-❌ Delete movies from the list
-
-📱 Responsive UI with modern styling
-
-🚀 **Built with:** HTML5, CSS3, Bootstrap, JavaScript, FontAwesome
+🚀 **Built with:** HTML5, CSS3, Bootstrap, JavaScript, FontAwesome  
 
 <p align="center">
-  <img src="https://github.com/Ahme-fahd/MovieList-CRUD/blob/main/Movies-List.png"  alt="Movies-List Screenshot">
+  <img src="https://github.com/Ahme-fahd/MovieList-CRUD/blob/main/Movies-List.png" alt="Movies-List Screenshot">
 </p>
 
-🔗 **Live Demo:** [Movies-List] (https://ahme-fahd.github.io/MovieList-CRUD/)
-🔗 **GitHub Repo:** [Movies-list] (https://github.com/Ahme-fahd/MovieList-CRUD)
+🔗 **Live Demo:** [Movies-List](https://ahme-fahd.github.io/MovieList-CRUD/)  
+🔗 **GitHub Repo:** [Movies-list](https://github.com/Ahme-fahd/MovieList-CRUD)
 
 ---
 
