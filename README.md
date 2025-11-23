@@ -80,24 +80,28 @@ A modern E-Commerce web application to browse, search, and purchase products.
 
 ---
 
-### 3️⃣ Book Marker
-A **CRUD (Create, Read, Update, Delete)** application to save and manage your favorite websites.
+### 3️⃣ 🎬 MoviesBox (CRUD System)
+A simple web application for managing movies where users can add, update, search, and delete movie entries.
 
-**✨ Features:**  
-- Add new bookmarks with website names and URLs  
-- View all bookmarks in a structured list  
-- Edit existing bookmarks  
-- Delete bookmarks  
-- Real-time URL validation  
+✨ Features:
 
-🚀 **Built with:** JavaScript, HTML5, CSS3  
+➕ Add new movies with title and details
+
+✏️ Update existing movie information
+
+🔍 Search movies instantly by name
+
+❌ Delete movies from the list
+
+📱 Responsive UI with modern styling
+🚀 **Built with:** HTML5, CSS3, Bootstrap, JavaScript, FontAwesome
 
 <p align="center">
   <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true" width="60%" alt="Book Marker Screenshot">
 </p>
 
-🔗 **Live Demo:** [Book Marker](https://ahme-fahd.github.io/BookMarker/)  
-🔗 **GitHub Repo:** [Book Marker Repo](https://github.com/Ahme-fahd/BookMarker)
+🔗 **Live Demo:** https://ahme-fahd.github.io/MovieList-CRUD/
+🔗 **GitHub Repo:** https://github.com/Ahme-fahd/MovieList-CRUD
 
 ---
 
