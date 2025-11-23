@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Fahd
 
 <p align="center">
-  <img src="https://github.com/Ahme-fahd.png" alt="Ahmed Fahd" >
+  <img src="https://github.com/Ahme-fahd.png" alt="Ahmed Fahd"  style="border-radius:50%;"  >
 </p>
 
 
