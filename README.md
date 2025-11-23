@@ -83,7 +83,7 @@ A modern E-Commerce web application to browse, search, and purchase products.
 ### 3️⃣ 🎬 MoviesBox (CRUD System)
 A simple web application for managing movies where users can add, update, search, and delete movie entries.
 
-✨ Features:
+**✨ Features:**  :
 
 ➕ Add new movies with title and details
 
