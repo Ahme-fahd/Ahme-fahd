@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Fahd
 
 <p align="center">
-  <img src="https://github.com/Ahme-fahd.png" width="150" height="150" style="border-radius:50%;" alt="Ahmed Fahd">
+  <img src="https://github.com/Ahme-fahd.png" width="150" height="150" style="border-radius:50%" alt="Ahmed Fahd">
 </p>
 
 I'm a passionate **Front-End Developer** with 3 years of freelance experience, building modern and responsive web applications.  
