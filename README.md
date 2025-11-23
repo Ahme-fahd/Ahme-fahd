@@ -97,7 +97,7 @@ A simple web application for managing movies where users can add, update, search
 🚀 **Built with:** HTML5, CSS3, Bootstrap, JavaScript, FontAwesome
 
 <p align="center">
-  <img src="https://github.com/Ahme-fahd/Ahme-fahd/blob/main/book-mark.png?raw=true" width="60%" alt="Book Marker Screenshot">
+  <img src="https://github.com/Ahme-fahd/MovieList-CRUD/blob/main/Movies-List.png" width="60%" alt="Book Marker Screenshot">
 </p>
 
 🔗 **Live Demo:** https://ahme-fahd.github.io/MovieList-CRUD/
