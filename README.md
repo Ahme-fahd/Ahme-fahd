@@ -101,8 +101,8 @@ A simple web application for managing movies where users can add, update, search
   <img src="https://github.com/Ahme-fahd/MovieList-CRUD/blob/main/Movies-List.png"  alt="Movies-List Screenshot">
 </p>
 
-🔗 **Live Demo:** https://ahme-fahd.github.io/MovieList-CRUD/
-🔗 **GitHub Repo:** https://github.com/Ahme-fahd/MovieList-CRUD
+🔗 **Live Demo:** [Movies-List] (https://ahme-fahd.github.io/MovieList-CRUD/)
+🔗 **GitHub Repo:** [Movies-list] (https://github.com/Ahme-fahd/MovieList-CRUD)
 
 ---
 
